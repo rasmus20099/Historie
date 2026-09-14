@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 det var en gang en mus
-=======
 det var en gang en mann.
 
 han så råtter.
->>>>>>> a6533d349ceaff2f746f19663f9c0c05a0952f5f
